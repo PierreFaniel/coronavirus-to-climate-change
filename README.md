@@ -1,8 +1,6 @@
 # coronavirus-to-climate-change
 
-![](logo.png)
-
-Chrome extension that replaces occurrences of 'coronavirus' with 'climate change'
+![](logo.jpg)
 
 The Climate Change Chrome extension changes every mention of “coronavirus” that you encounter while browsing to “climate change.”
 
@@ -12,5 +10,3 @@ Imagine if governments world-wide moved beyond rhetoric and took meaningful acti
 This free plug-in will work on all browsers.
 
 The Climate Change Plug-In was created by Pierre Faniel ([@PierreFaniel](https://twitter.com/PierreFaniel)) and Alex Ketchum ([@aketchum22](https://twitter.com/aketchum22)).
-
-
