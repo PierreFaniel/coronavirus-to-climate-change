@@ -2,7 +2,7 @@
 
 ![](logo.jpg)
 
-The Climate Change Chrome extension changes every mention of “coronavirus” that you encounter while browsing to “climate change.”
+The Climate Change extension changes every mention of “coronavirus” that you encounter while browsing to “climate change.”
 
 This plug-in does not exist to mock people who have suffered as a result of COVID-19. We do not aim to undermine the impact of the virus.
 Rather, we created this plug-in with the intention of highlighting the amazing ability of humans to organize and collectively work together to overcome problems.
