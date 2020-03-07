@@ -1,38 +1,16 @@
-cloud-to-butt
-=============
+# coronavirus-to-climate-change
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'coronavirus' with 'climate change'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+The Climate Change Chrome extension changes every mention of “coronavirus” that you encounter while browsing to “climate change.”
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above, and therefore it did not replace your cloudflare URLs with buttflare URLs. Thank you for your concern.
+This plug-in does not exist to mock people who have suffered as a result of COVID-19. We do not aim to undermine the impact of the virus.
+Rather, we created this plug-in with the intention of highlighting the amazing ability of humans to organize and collectively work together to overcome problems.
+Imagine if governments world-wide moved beyond rhetoric and took meaningful action.
+This free plug-in will work on all browsers.
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
-
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+The Climate Change Plug-In was created by Pierre Faniel ([@PierreFaniel](https://twitter.com/PierreFaniel)) and Alex Ketchum ([@aketchum22](https://twitter.com/aketchum22)).
 
 
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
